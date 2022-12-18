@@ -1,0 +1,14 @@
+D:\c#-workspace\ptWeb\ptweb\DemoNeEkersen\DemoNeEkersen.Data\bin\Debug\net6.0\DemoNeEkersen.Data.deps.json
+D:\c#-workspace\ptWeb\ptweb\DemoNeEkersen\DemoNeEkersen.Data\bin\Debug\net6.0\DemoNeEkersen.Data.runtimeconfig.json
+D:\c#-workspace\ptWeb\ptweb\DemoNeEkersen\DemoNeEkersen.Data\bin\Debug\net6.0\DemoNeEkersen.Data.dll
+D:\c#-workspace\ptWeb\ptweb\DemoNeEkersen\DemoNeEkersen.Data\bin\Debug\net6.0\DemoNeEkersen.Data.pdb
+D:\c#-workspace\ptWeb\ptweb\DemoNeEkersen\DemoNeEkersen.Data\obj\Debug\net6.0\DemoNeEkersen.Data.csproj.AssemblyReference.cache
+D:\c#-workspace\ptWeb\ptweb\DemoNeEkersen\DemoNeEkersen.Data\obj\Debug\net6.0\DemoNeEkersen.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#-workspace\ptWeb\ptweb\DemoNeEkersen\DemoNeEkersen.Data\obj\Debug\net6.0\DemoNeEkersen.Data.AssemblyInfoInputs.cache
+D:\c#-workspace\ptWeb\ptweb\DemoNeEkersen\DemoNeEkersen.Data\obj\Debug\net6.0\DemoNeEkersen.Data.AssemblyInfo.cs
+D:\c#-workspace\ptWeb\ptweb\DemoNeEkersen\DemoNeEkersen.Data\obj\Debug\net6.0\DemoNeEkersen.Data.csproj.CoreCompileInputs.cache
+D:\c#-workspace\ptWeb\ptweb\DemoNeEkersen\DemoNeEkersen.Data\obj\Debug\net6.0\DemoNeEkersen.Data.dll
+D:\c#-workspace\ptWeb\ptweb\DemoNeEkersen\DemoNeEkersen.Data\obj\Debug\net6.0\refint\DemoNeEkersen.Data.dll
+D:\c#-workspace\ptWeb\ptweb\DemoNeEkersen\DemoNeEkersen.Data\obj\Debug\net6.0\DemoNeEkersen.Data.pdb
+D:\c#-workspace\ptWeb\ptweb\DemoNeEkersen\DemoNeEkersen.Data\obj\Debug\net6.0\DemoNeEkersen.Data.genruntimeconfig.cache
+D:\c#-workspace\ptWeb\ptweb\DemoNeEkersen\DemoNeEkersen.Data\obj\Debug\net6.0\ref\DemoNeEkersen.Data.dll
